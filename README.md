@@ -10,7 +10,7 @@ This is my personal archive of Self_Study of Python
 ### What Will I Do?
 
 - [ ] Learn Some Basic Grammer Of Python
-- [ ] Making a Baseball Statistical Model w/ Python (Predict your performance during the season with that model and compare it to your performance after the season)
+- [ ] Making a Baseball Statistical Model w/ Python (Predict player's performance during the season with my model and compare it to player's performance after the season)
 - [ ] Will be updated later.... (Comming Sonn!)
 
 /exercisese - example exercises in the book  
