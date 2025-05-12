@@ -11,7 +11,7 @@ This is my personal archive of Self_Study of Python
 
 - [ ] Learn Some Basic Grammer Of Python
 - [ ] Making a Baseball Statistical Model w/ Python (Predict player's performance during the season with my model and compare it to player's performance after the season)
-- [ ] Will be updated later.... (Comming Sonn!)
+- [ ] Will be updated later.... (Comming Soon!)
 
 /exercisese - example exercises in the book  
 /projects - personal project  
