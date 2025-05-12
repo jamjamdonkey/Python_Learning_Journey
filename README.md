@@ -14,3 +14,7 @@ This is my personal archive of Self_Study of Python
 - [ ] Will be updated later.... (Comming Sonn!)
 
 /exercisese - example exercises in the book
+/projects - personal project
+/notes - a study note
+/schedule - a long_term plan
+/weekly goals - a short_term plan
