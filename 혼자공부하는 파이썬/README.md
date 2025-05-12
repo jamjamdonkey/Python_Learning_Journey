@@ -1,7 +1,7 @@
 # Book Title : 혼자공부하는 파이썬
 My Tutor Of Self_Study Of Python
 
-##INDEX & CHECKLIST
+## INDEX & CHECKLIST
 - [ ] 1. Starting Python
 - [ ] 2. Data
 - [ ] 3. Conditions Statemens
