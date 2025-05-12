@@ -13,8 +13,8 @@ This is my personal archive of Self_Study of Python
 - [ ] Making a Baseball Statistical Model w/ Python (Predict your performance during the season with that model and compare it to your performance after the season)
 - [ ] Will be updated later.... (Comming Sonn!)
 
-/exercisese - example exercises in the book
-/projects - personal project
-/notes - a study note
-/schedule - a long_term plan
-/weekly goals - a short_term plan
+/exercisese - example exercises in the book  
+/projects - personal project  
+/notes - a study note  
+/schedule - a long_term plan  
+/weekly goals - a short_term plan  
